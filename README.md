@@ -1,1 +1,1 @@
-Привет. Я - Виталий, и я начинающий Frontend разработчик.
+Hello everyone, I'm Vitaly, and I'm a begginer developer
