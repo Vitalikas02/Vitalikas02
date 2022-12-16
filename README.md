@@ -1,1 +1,1 @@
-Hello everyone, I'm Vitaly, and I'm a begginer developer
+Hello everyone, I'm Vitaliy, and I'm a begginer developer
