@@ -1,6 +1,6 @@
 Java themes learned:
 
-Syntax: +
+Syntax:
 • Variables, methods, data types
 • Conditional constructions
 • Arrays
