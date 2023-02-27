@@ -8,16 +8,17 @@ Syntax:
 • Classes, objects
 
 Core:
-• OOP (theory, no practice)
+• OOP
 • Overloading, overriding methods
 • List data types – List, Map, Queue, etc.. (need explore difference between them)
-• Generics (low)
+• Generics (low+)
 • Exceptions
 • I/O streams
-• Algorithms and data structures + sorting algorithms(low)
+• Algorithms and data structures + sorting algorithms(low+)
 
 Databases:
-• MySql (low)
+• Sql requests (easy)
+• MySql(low)
 • PostgreSQL(null)
 • MondoDB(null)
 
