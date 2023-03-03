@@ -17,7 +17,7 @@ Core:
 • Algorithms and data structures + sorting algorithms(low+)
 
 Databases:
-• Sql requests (easy)
+• Simple Sql requests
 • MySql(low)
 • PostgreSQL(null)
 • MondoDB(null)
