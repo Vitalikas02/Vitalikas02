@@ -1,11 +1,41 @@
-Java themes learned:
+**2023-2024 year**
 
-Syntax:
-• Variables, methods, data types
-• Conditional constructions
-• Arrays
-• Cycles
-• Classes, objects
+*Frontend themes learned:*
+• html (semantics, BEM, DOM)
+• css (adaptive, 
+• js -> typescript, php (base)
+• scss(gulp), node.js(cmd)
+• framework -> angular(low)
+• git(base cmd commands)
+
+
+*in the process of studying:*
+• improving knowledge typescript, angular, scss
+• improving my web development template
+
+*in the future, but I'm not doing it now:*
+• Java Spring
+• docker
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**2023 year**
+Java themes learned:
 
 Core:
 • OOP
