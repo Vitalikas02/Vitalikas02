@@ -7,6 +7,7 @@
 • scss(gulp), node.js(cmd)
 • framework -> angular(low)
 • git(base cmd commands)
+• vue with ts and pinia storage(3 weeks commerce learn)
 
 
 *in the process of studying:*
