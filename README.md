@@ -15,7 +15,7 @@ I developed, worked on, and maintained my own module in the project, which inclu
 • scss(gulp), node.js(cmd)
 • framework -> angular(low)
 • git(base cmd commands)
-• vue with ts and pinia storage(3 weeks commerce learn)
+• vue with ts and pinia storage
 
 
 *in the process of studying:*
