@@ -1,3 +1,6 @@
+**2024 03-06**
+Work in Quniq startup (Junior vue-frontend developer)
+
 **2023-2024 year**
 
 *Frontend themes learned:*
