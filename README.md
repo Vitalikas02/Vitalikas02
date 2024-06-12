@@ -1,5 +1,10 @@
-**2024 03-06**
+**2024 02-06**
 Work in Quniq startup (Junior vue-frontend developer)
+I developed, worked on, and maintained my own module in the project, which includes:
+• Task Manager
+• WYSIWYG editor
+• Archive
+• Other similar functions: "Favorites", "Filters", "Sorting", etc.
 
 **2023-2024 year**
 
@@ -20,14 +25,6 @@ Work in Quniq startup (Junior vue-frontend developer)
 *in the future, but I'm not doing it now:*
 • Java Spring
 • docker
-
-
-
-
-
-
-
-
 
 
 
