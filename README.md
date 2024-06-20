@@ -10,30 +10,12 @@ I developed, worked on, and maintained my own module in the project, which inclu
 
 *Frontend themes learned:*
 • html (semantics, BEM, DOM)
-• css (adaptive, 
-• js -> typescript, php (base)
-• scss(gulp), node.js(cmd)
-• framework -> angular(low)
-• git(base cmd commands)
-• vue with ts and pinia storage
-
-
-*in the process of studying:*
-• improving knowledge typescript, angular, scss
-• improving my web development template
-
-*in the future, but I'm not doing it now:*
-• Java Spring
-• docker
-
-
-
-
-
-
-
-
-
+• css
+• javascript, typescript, php
+• scss(gulp), node.js, npm
+• Vue3
+• pinia
+• git
 
 **2023 year**
 Java themes learned:
@@ -48,16 +30,15 @@ Core:
 • Algorithms and data structures + sorting algorithms(low+)
 
 Databases:
-• Simple Sql requests
-• MySql(low)
-• PostgreSQL(null)
-• MondoDB(null)
+• MySql
+• PostgreSQL
+• MondoDB
 
 • Java Collections(need explore difference between them)
-• Functional programming(null)
-• Gradle | Maven(low)
-• REST, HTTP(low)
-• SPRING(theory, low)
-• JUnit, Mockito, Selenium(null)
-• Multithreading(low)
-• Hybernate(null)
+• Functional programming
+• Gradle | Maven
+• REST, HTTP
+• SPRING
+• JUnit, Mockito, Selenium
+• Multithreading
+• Hybernate
