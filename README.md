@@ -24,10 +24,10 @@ Core:
 • OOP
 • Overloading, overriding methods
 • List data types – List, Map, Queue, etc.. (need explore difference between them)
-• Generics (low+)
+• Generics
 • Exceptions
 • I/O streams
-• Algorithms and data structures + sorting algorithms(low+)
+• Algorithms and data structures + sorting algorithms
 
 Databases:
 • MySql
