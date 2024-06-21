@@ -16,29 +16,3 @@ I developed, worked on, and maintained my own module in the project, which inclu
 • Vue3
 • pinia
 • git
-
-**2023 year**
-Java themes learned:
-
-Core:
-• OOP
-• Overloading, overriding methods
-• List data types – List, Map, Queue, etc.. (need explore difference between them)
-• Generics
-• Exceptions
-• I/O streams
-• Algorithms and data structures + sorting algorithms
-
-Databases:
-• MySql
-• PostgreSQL
-• MondoDB
-
-• Java Collections(need explore difference between them)
-• Functional programming
-• Gradle | Maven
-• REST, HTTP
-• SPRING
-• JUnit, Mockito, Selenium
-• Multithreading
-• Hybernate
